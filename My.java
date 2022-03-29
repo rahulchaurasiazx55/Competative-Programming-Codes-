@@ -1,7 +1,7 @@
 import java.lang.*;
 import java.io.*;
 import java.util.*;
-class My
+class Lower_Bound
 {
     public static void main(String[] args)
     {
