@@ -16,7 +16,7 @@ class BinaryExponentiation
 		int ans=-1;
 		if(b==0)
 		{
-			return a%m;
+			return 1%m;
 		}
 		int temp=binary(a,b/2,m);
 		temp=temp*temp;
